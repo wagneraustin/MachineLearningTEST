@@ -2,7 +2,6 @@ pandas
 matplotlib
 numpy
 scipy
-urllib
 re
 zlib
 collections

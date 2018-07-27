@@ -2,6 +2,3 @@ pandas
 matplotlib
 numpy
 scipy
-zlib
-collections
-math
